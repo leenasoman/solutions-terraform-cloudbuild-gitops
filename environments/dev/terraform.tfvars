@@ -1,1 +1,1 @@
-project="PROJECT_ID"
+project="lsoman-test-1"
